@@ -1,0 +1,28 @@
+{
+  "name": "ucintern",
+  "version": "1.0.0",
+  "description": "ucteamtalk.slack bot",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeryan/ucintern.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "node"
+  ],
+  "author": "Joe Ryan <joe@clanryan.us> (https://clanryan.us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeryan/ucintern/issues"
+  },
+  "homepage": "https://github.com/joeryan/ucintern#readme"
+}
